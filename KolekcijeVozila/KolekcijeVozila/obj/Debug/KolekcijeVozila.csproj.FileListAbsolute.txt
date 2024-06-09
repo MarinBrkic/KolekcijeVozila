@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\obj\Debug\KolekcijeVozila.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\obj\Debug\kolekcijeVozila.Form1.resources
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\obj\Debug\KolekcijeVozila.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\obj\Debug\KolekcijeVozila.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\obj\Debug\KolekcijeVozila.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\obj\Debug\KolekcijeVozila.exe
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\obj\Debug\KolekcijeVozila.pdb
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\bin\Debug\KolekcijeVozila.exe.config
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\bin\Debug\KolekcijeVozila.exe
+C:\Users\Korisnik\source\repos\KolekcijeVozila\KolekcijeVozila\bin\Debug\KolekcijeVozila.pdb
